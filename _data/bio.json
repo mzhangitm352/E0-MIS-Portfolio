@@ -6,7 +6,8 @@
     "summary": "I am studying for a BBA in Marketing and MIS, alongside a minor in Chinese at the University of Hawaii. I expect to graduate in Spring, 2024.",
   },
   "interests": [
-    { "name": "marketing,cdramas,music" },
-  ],    
-  
+    { 
+      "name": "marketing, cdramas, music" 
+    }
+  ]      
 }
