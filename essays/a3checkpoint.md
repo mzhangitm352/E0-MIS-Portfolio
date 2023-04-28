@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E1: UI Basics Technical Essay"
+title: "Assignment 3 Checkpoint"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-27
 published: true
