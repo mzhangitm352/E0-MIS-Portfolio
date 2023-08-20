@@ -7,7 +7,22 @@
    },
    "interests":[
       {
-         "name":"marketing, cdramas, music"
+         "name":"cooking, cdramas, music"
       }
-   ]
-}
+   ],
+   "education": [
+      {
+         "university": "University of Hawaii at Manoa",
+         "degree": "BBA",
+         "major": "Marketing and Management Information Systems",
+         "startDate": "2021",
+         "endDate": "Present",
+      }
+   ],
+   "work": [
+      {
+         "position": "Manoa Peer Advisor | Manoa Advising Center",
+         "startDate": "2022",
+         "endDate": "Present",
+         "summary": "Peer Professional trained on all 100 majors offered at the University of Hawaii at Manoa. Independently lead advising appointments with mainly freshmen to enhance students’ college experience at UHM. Communicated with students by promptly answering their questions or guiding them to relevant resources & prepared and delivered presentations on the various majors at UHM"
+      },
