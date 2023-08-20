@@ -1,13 +1,13 @@
 {
-   "basics":{
-      "name":"Michelle Zhang",
-      "label":"Shidler Undergraduate Student",
-      "picture":"https://github.com/mzhangitm352.png",
-      "summary":"I am studying for a BBA in Marketing and MIS, alongside a minor in Chinese at the University of Hawaii. I expect to graduate in Spring, 2024."
+   "basics": {
+      "name": "Michelle Zhang",
+      "label": "Shidler Undergraduate Student",
+      "picture": "https://github.com/mzhangitm352.png",
+      "summary": "I am studying for a BBA in Marketing and MIS, alongside a minor in Chinese at the University of Hawaii. I expect to graduate in Spring, 2024."
    },
-   "interests":[
+   "interests": [
       {
-         "name":"cooking, cdramas, music"
+         "name": "cooking, cdramas, music"
       }
    ],
    "education": [
@@ -16,7 +16,7 @@
          "degree": "BBA",
          "major": "Marketing and Management Information Systems",
          "startDate": "2021",
-         "endDate": "Present",
+         "endDate": "Present"
       }
    ],
    "work": [
@@ -24,15 +24,16 @@
          "position": "Manoa Peer Advisor | Manoa Advising Center",
          "startDate": "2022",
          "endDate": "Present",
-         "summary": "Peer Professional trained on all 100 majors offered at the University of Hawaii at Manoa. Independently lead advising appointments with mainly freshmen to enhance students’ college experience at UHM. Communicated with students by promptly answering their questions or guiding them to relevant resources & prepared and delivered presentations on the various majors at UHM"
+         "summary": "Peer Professional trained on all 100 majors offered at the University of Hawaii at Manoa. Independently lead advising appointments with mainly freshmen to enhance students’ college experience at UHM. Communicated with students by promptly answering their questions or guiding them to relevant resources & prepared and delivered presentations on the various majors at UHM."
       }
-   ],  
-     "awards": [
+   ],
+   "awards": [
       {
-         "title": "Manoa Acedemic Merit Scholarship",
+         "title": "Manoa Academic Merit Scholarship",
          "awarder": "University of Hawaii",
-         "startDate": "2021",
-         "endDate": "Present",
-      },
-     ],
+         "date": "2021"
+      }
+   ]
+}
+
         
