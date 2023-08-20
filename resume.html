@@ -69,31 +69,24 @@ layout: home
     </div>
     {% endif %}
 
-   {% if site.data.bio.education %}
-<div class="row pt-4 align-items-start">
-  <div class="col-lg-3">
-    <h1 class="display-6 text-start m-0">Education</h1>
-  </div>
-  <div class="col-lg-9">
-    {% for entry in site.data.bio.education %}
-    <div class="row mb-3">
-      <div class="col-9">
-        <p class="m-0"><b>{{ entry.university }}</b></p>
-        <p class="m-0">{{ entry.degree }}, {{ entry.major }}</p>
-        {% if entry.courses %}
-        <ul>
-          {% for course in entry.courses %}
-            <li>{{ course }}</li>
-          {% endfor %}
-        </ul>
-        {% endif %}
+    {% if site.data.bio.education %}
+    <div class="row pt-4 align-items-start">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Education</h1>
       </div>
-    </div>
-    {% endfor %}
-  </div>
-</div>
-{% endif %}
-
+      <div class="col-lg-9">
+        {% for entry in site.data.bio.education %}
+          <div class="row mb-3">
+            <div class="col-9">
+              <p class="m-0"><b>{{ entry.institution }}</b></p>
+              <p class="m-0">{{ entry.studyType }}, {{ entry.area }}</p>
+              {% if entry.courses %}
+                <ul>
+                  {% for course in entry.courses %}
+                    <li>{{ course }}</li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
             </div>
           <div class="col-3">
             <p class="m-0 text-end">
