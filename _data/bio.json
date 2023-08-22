@@ -11,50 +11,48 @@
          "name": "cooking, cdramas, music"
       }
    ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Javascript"]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii at Manoa",
-      "area": "Management Information Systems & Marketing (expected Spring, 2024)",
-      "studyType": "BBA",
-      "startDate": "2021",
-      "endDate": "Present"
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa | Manoa Advising Center",
-      "position": "Manoa Peer Advisor",
-      "startDate": "2022",
-      "endDate": "Present",
-      "summary": "Peer Professional trained on all 100 majors offered at the University of Hawaii at Manoa",
-      "highlights": [
-        "Independently lead advising appointments with mainly freshmen to enhance students’ college experience at UHM"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Manoa Academic Merit Scholarship",
-      "date": "2021-Present",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Scholarships awarded to first-time degree seeking incoming freshmen with a high school GPA of 3.8."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+   "skills": [
+      {
+         "name": "Languages and Frameworks",
+         "keywords": [ "Java", "Javascript"]
+      },
+      {
+         "name": "Toolsets/OS",
+         "keywords": [ "MacOS", "Git/GitHub"]
+      }
+   ],
+   "education": [
+      {
+         "institution": "University of Hawaii at Manoa",
+         "area": "Management Information Systems & Marketing (expected Spring, 2024)",
+         "studyType": "BBA",
+         "startDate": "2021",
+         "endDate": "Present"
+      }
+   ],
+   "work": [
+      {
+         "company": "UH Manoa | Manoa Advising Center",
+         "position": "Manoa Peer Advisor",
+         "startDate": "2022",
+         "endDate": "Present",
+         "summary": "Peer Professional trained on all 100 majors offered at the University of Hawaii at Manoa",
+         "highlights": [
+            "Independently lead advising appointments with mainly freshmen to enhance students’ college experience at UHM"
+         ]
+      }
+   ],
+   "awards": [
+      {
+         "title": "Manoa Academic Merit Scholarship",
+         "date": "2021-Present",
+         "awarder": "University of Hawaii at Manoa",
+         "summary": "Scholarships awarded to first-time degree seeking incoming freshmen with a high school GPA of 3.8."
+      }
+   ],
+   "references": [
+      {
+         "name": "Available upon request"
+      }
+   ]
 }
-
-        
